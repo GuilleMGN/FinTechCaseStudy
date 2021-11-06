@@ -3,15 +3,19 @@
 ## Overview and Origin
 
 * Name of company
+Wealthsimple
 
 * When was the company incorporated?
+Semptember 2014
 
 * Who are the founders of the company?
+Michael Katchen and Rudy Adler
 
 * How did the idea for the company (or project) come about?
+After Ancestry.com bought 1000Memories in 2012, Katchen developed a spreadsheet with tips to help his colleagues set up investment portfolios. Interest in the spreadsheet helped inspire the idea for Wealthsimple. In 2014, he returned to Toronto to launch the company.
 
 * How is the company funded? How much funding have they received?
-
+In October 2020, Wealthsimple raised CAD$114 million (US$87 million) in funding from an investor group led by Technology Crossover Ventures, in addition to Greylock Partners, Meritech Capital Partners, Two Sigma Ventures and Allianz X. An annual fee is charged ranging from 0.4% to 0.5% based on account size. 
 
 ## Business Activities:
 
@@ -25,7 +29,8 @@
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+* What domain of the financial industry is the company in? 
+Financial services, online investment management
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
