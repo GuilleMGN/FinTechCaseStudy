@@ -55,13 +55,16 @@ Wealthsimple is the leading platform for investing in Canada due to the combinat
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) </br>
-I would suggest Wealthsimple to add better real-time data for its assets. 
+I would suggest Wealthsimple to add better real-time data for its assets, and for them to provide better analysis tools. Other competitors offer research reports and in-depth information for its investors to make better decisions. Also, there is no option for any automated buys and sells. 
 
 * Why do you think that offering this product or service would benefit the company? </br>
+These services would benefit the company as it will continue to bring more customers in and allow trading to be easier for experienced and newcomers. The company's restrictions for the new users may cause confusion at first, such as not being able to use deposited funds instantly. However, Wealthsimple does offer a premium account to avoid these limits. The implementation of trading bots will give them an advantage over other competitors by being technologically ahead of them, on top of the many other advantages that Wealthsimple already has. 
 
 * What technologies would this additional product or service utilize? </br>
+Wealthsimple, being the online broker, will only require a software to enable automatic buys or sells. The user would have to only set up the rules (trading strategies, stop losses, trailing stops, profit targets) and this way they can trade according to how they normally would, and the process is fully automized. Most trading bots use Python as its programming language, being coded to react to the market by gathering data in order to execute a trafe based on the analysis of the platform. 
 
 * Why are these technologies appropriate for your solution? </br>
+Offering trading bots has many advantages for the customers, it can help with minimizing emotions while trading, allows for backtesting, preserving the trader's discipline, improving order entry speed, and diversifying trading by allowing multiple accounts. It will be a generally positive addition to the company's application, causing it to grow more, and attract new people to use their platform.  
 
 ### Sources
 
@@ -72,3 +75,5 @@ I would suggest Wealthsimple to add better real-time data for its assets.
 * https://www.wealthsimple.com/en-ca/about/who-we-are/
 * https://digital.hbs.edu/platform-digit/submission/wealthsimple-a-winner-in-investment-management/
 * https://www.investopedia.com/financial-edge/0212/how-the-internet-has-changed-investing.aspx
+* https://www.investopedia.com/articles/trading/11/automated-trading-systems.asp
+* https://blockonomi.com/bitcoin-trading-bots/#:~:text=Trading%20bots%20work%20by%20reacting,analysis%20of%20the%20trading%20platform.&text=EMA's%20track%20market%20prices%20over,as%20moving%20beyond%20certain%20thresholds.
